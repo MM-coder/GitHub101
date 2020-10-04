@@ -1,6 +1,6 @@
 # Windows
 
-On Windows, the GitHub CLI is available via ![scoop](https://scoop.sh/), ![Chocolatey](https://chocolatey.org/), and as downloadable MSI.
+On Windows, the GitHub CLI is available via [scoop](https://scoop.sh/), [Chocolatey](https://chocolatey.org/), and as downloadable MSI.
 
 #### scoop
 
@@ -111,7 +111,7 @@ sudo zypper update gh
  
 Install and upgrade:
 
-1. Download the `.rpm` file from the![releases page](https://github.com/cli/cli/releases/latest);
+1. Download the `.rpm` file from the[releases page](https://github.com/cli/cli/releases/latest);
 2. Install the downloaded file: `sudo zypper in gh_*_linux_amd64.rpm`
 
 ## Community-supported methods
@@ -120,7 +120,7 @@ Our team does not directly maintain the following packages or repositories. They
 
 ### Arch Linux
 
-Arch Linux users can install from the ![community repo](https://aur.archlinux.org/packages/github-cli-git):
+Arch Linux users can install from the [community repo](https://aur.archlinux.org/packages/github-cli-git):
 
 ```bash
 sudo pacman -S github-cli
